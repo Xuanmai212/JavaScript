@@ -1,2 +1,1 @@
 # JavaScript
-Hàm trong JavaScript

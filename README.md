@@ -1,0 +1,2 @@
+# JavaScript
+Hàm trong JavaScript
